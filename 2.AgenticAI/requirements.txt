@@ -4,3 +4,7 @@ langchain-core
 langchain-community
 langchain-openai
 ipykernel
+typing_extensions
+typing
+python-dotenv
+langchain-groq
