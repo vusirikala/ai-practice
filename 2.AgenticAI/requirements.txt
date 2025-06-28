@@ -8,3 +8,6 @@ typing_extensions
 typing
 python-dotenv
 langchain-groq
+arxiv
+wikipedia
+langgraph-cli[inmem]
